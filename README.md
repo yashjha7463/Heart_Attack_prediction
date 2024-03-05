@@ -8,8 +8,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine using git clone.
 
-2. Install the required dependencies:
-pip install -r requirements.txt
+2. Install the required dependencies: (`pip install -r requirements.txt`)
 
 3. Download the heart disease dataset (`heart.csv`) and place it in the project directory.
 
