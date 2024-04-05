@@ -1,6 +1,10 @@
 # Heart Attack Prediction App
 
-This is a Streamlit web application for predicting the probability of having a heart attack based on user input data. The prediction model is built using a neural network trained on a heart disease dataset.
+This project involved collecting a heart attack dataset from Kaggle.
+Performing exploratory data analysis (EDA) to understand the distribution of different features, correlations, and potentially identify important factor related to heart attacks. Testing the accuracy of various machine learning algorithms like random forest algorithm and also neural networks to develop a heart attack prediction model.
+After fine-tuning the models, the most accurate one was selected (neural networks).
+I deployed project using Streamlit to create a user-friendly interface for accessing the heart attack prediction tool.
+The live project can be accessed at [ https://yash-haps.streamlit.app/].
 
 ## Getting Started
 
